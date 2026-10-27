@@ -1,0 +1,15 @@
+﻿.env
+.env.*
+!.env.example
+.venv/
+venv/
+node_modules/
+__pycache__/
+*.pyc
+.next/
+dist/
+build/
+.pytest_cache/
+mlruns/
+
+ml/data/raw/sell_prices.csv
